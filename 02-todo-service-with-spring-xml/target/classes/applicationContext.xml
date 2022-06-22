@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- configure todoRepository bean , interface name : TodoRepository Fully 
+		Class Name : com.simplilearn.workshop.repository.TodoRepositoryImpl -->
+
+	<bean name="todoRepository"
+		class="com.simplilearn.workshop.repository.TodoRepositoryImpl" />
+
+
+	<!-- configure todoService bean , interface name : TodoService Fully Class 
+		Name : com.simplilearn.workshop.services.TodoServiceImpl -->
+
+	<bean name="todoService"
+		class="com.simplilearn.workshop.services.TodoServiceImpl" >
+	
+	<!-- Setter Dependency  Injection -->
+	<property name="todoRepository" >
+		<ref bean="todoRepository"/> <!-- assembly -->
+	</property>
+		
+	</bean>
+
+
+</beans>
