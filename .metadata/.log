@@ -2428,3 +2428,715 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:03:24.343
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:17:46.027
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xUhQmLgQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:17:46.027
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.xUhQmLgQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:17:46.028
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:17:46.029
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xUhQmLgQ => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:11.280
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:11.283
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:12.523
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:12.526
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:27.135
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:27.138
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:28.330
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:28.335
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:40.502
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:40.506
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:47.458
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:18:47.461
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:33.755
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:33.759
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:35.087
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:35.090
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:43.855
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:43.863
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:43.888
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:43.892
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:43.999
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:39:44.003
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:41:15.167
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:41:15.170
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:15.341
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:15.342
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@274aae1b[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:15.343
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-06-24 10:41:16.342
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:550)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:539)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:872)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1707)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:601)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-06-24 10:41:17.344
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:550)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:539)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:872)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$7(LanguageServiceAccessor.java:379)
+	at java.base/java.util.stream.MatchOps$1MatchSink.accept(MatchOps.java:90)
+	at java.base/java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1728)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.anyMatch(ReferencePipeline.java:632)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:378)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:601)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.830
+!MESSAGE Boot LS startup time from start to initialized: 2485ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.995
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DUAEYZuXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.996
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.997
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.998
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.998
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:17.999
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DUAEYZuX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.000
+!MESSAGE classpath=15 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.002
+!MESSAGE buffering callback sts4.classpath.DUAEYZuX 05-todo-service-jdbc-api false 15
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.004
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.005
+!MESSAGE buffering callback sts4.classpath.DUAEYZuX 01-todo-service-without-spring false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.006
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.008
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.010
+!MESSAGE buffering callback sts4.classpath.DUAEYZuX 02-todo-service-with-spring-xml false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.013
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.014
+!MESSAGE buffering callback sts4.classpath.DUAEYZuX 03-todo-service-spring-java-configuration false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.015
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.017
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.019
+!MESSAGE buffering callback sts4.classpath.DUAEYZuX 04-todo-service-spring-annotation false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.019
+!MESSAGE executing callback sts4.classpath.DUAEYZuX 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-24 10:41:18.614
+!MESSAGE executing callback sts4.classpath.DUAEYZuX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:43:54.939
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:43:54.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:44:05.390
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:44:05.396
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:44:20.767
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:44:20.771
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 4 2022-06-24 10:55:10.395
+!MESSAGE Exception occurred during problem detection:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.simplilearn.workshop.repository;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.simplilearn.workshop.model.Todo;
+import com.simplilearn.workshop.utils.ConnectionUtils;
+
+@Repository(value = "todoRepository")
+public class TodoRepositoryImpl implements TodoRepository {
+	
+	@Override
+	public Todo save ( Todo theTodo) {
+		if ( theTodo.getId() == -1 || theTodo.getId() == 0 ) {
+			theTodo.setId(++counter);
+			todos.add(theTodo);
+		}else {
+			deleteById(theTodo.getId());
+			todos.add(theTodo);
+		}
+		return theTodo;
+	}
+	
+	@Override
+	public Todo deleteById(long theId) {
+		Todo theTodo = findById(theId);
+		
+		if ( theTodo == null ) {
+			return null;
+		}
+		
+		if ( todos.remove(theTodo)) {
+			return theTodo;
+		}
+		
+		return null;
+		
+	}
+
+	private static List<Todo> todos = new ArrayList<>();
+	
+	
+	@Override
+	public  List<Todo> findAll() {
+		
+		try (
+				Connection connection = ConnectionUtils.getConnection();
+				Statement
+				){
+			
+		} catch (ClassNotFoundException e) {
+			
+			e.printStackTrace();
+		} catch (SQLException e) {
+						e.printStackTrace();
+		}
+		return todos;
+	}
+
+	
+	@Override
+	public Todo findById(long theId) {
+		for ( Todo theTodo : todos) {
+			if ( theTodo.getId() == theId) {
+				return theTodo;
+			}
+		}
+		return null;
+	}
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2022-06-24 10:55:10.397
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 1
+Java Model Exception: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:326)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+Caused by: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	... 18 more
+Caused by: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2022-06-24 10:55:10.398
+!MESSAGE class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2022-06-24 10:55:10.398
+!MESSAGE class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2022-06-24 10:55:10.400
+!MESSAGE Error in JDT Core during reconcile
+!STACK 1
+Java Model Exception: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:326)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+Caused by: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	... 18 more
+Caused by: java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2022-06-24 10:55:10.400
+!MESSAGE class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1072)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2022-06-24 10:55:10.416
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1246)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:712)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:189)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2022-06-24 10:55:10.417
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding cannot be cast to class org.eclipse.jdt.internal.compiler.lookup.VariableBinding (org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding and org.eclipse.jdt.internal.compiler.lookup.VariableBinding are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @5a1a5521)
+	at org.eclipse.jdt.internal.compiler.ast.TryStatement.generateCode(TryStatement.java:575)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:354)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.generateCode(AbstractMethodDeclaration.java:291)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:761)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.generateCode(TypeDeclaration.java:831)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.generateCode(CompilationUnitDeclaration.java:412)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1246)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:712)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:189)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:55:22.326
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:55:22.331
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:56:11.461
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:56:11.464
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:13.580
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:13.584
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:18.509
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:18.512
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:23.051
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:23.054
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:27.985
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 10:59:27.990
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:02:12.799
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:02:12.802
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:06:23.536
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:06:23.539
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:02.343
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:02.347
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:09.242
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:09.245
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:45.031
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:31:45.034
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:32:21.352
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:32:21.355
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:32:48.614
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:32:48.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:35:22.909
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:35:22.914
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:35:28.355
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:35:28.359
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:36:04.314
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:36:04.320
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:36:10.143
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:36:10.146
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:37:52.867
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:37:52.871
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:38:02.928
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-24 11:38:02.931
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
