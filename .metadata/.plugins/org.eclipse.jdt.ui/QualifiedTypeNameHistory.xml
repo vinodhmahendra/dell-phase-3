@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.simplilearn.workshop.repository.TodoRepository"/>
+    <fullyQualifiedTypeName name="com.simplilearn.workshop.repository.TodoRepositoryImpl"/>
+    <fullyQualifiedTypeName name="com.simplilearn.workshop.services.TodoServiceImpl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.simplilearn.workshop.model.Todo"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.simplilearn.workshop.services.TodoService"/>
+</qualifiedTypeNameHistroy>

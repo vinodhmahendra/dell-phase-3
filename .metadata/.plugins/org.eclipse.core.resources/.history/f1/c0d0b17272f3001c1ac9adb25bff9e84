@@ -1,0 +1,20 @@
+package com.simplilearn.workshop.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.simplilearn.workshop.repository.TodoRepository;
+import com.simplilearn.workshop.repository.TodoRepositoryImpl;
+
+@Configuration
+public class TodoAppConfig {
+	
+	
+	
+	@Bean
+	public TodoRepository todoRepository() {
+		TodoRepositoryImpl todoRepository = new TodoRepositoryImpl();
+		return todoRepository;
+	}
+
+}
