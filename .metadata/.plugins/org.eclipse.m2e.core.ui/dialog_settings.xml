@@ -46,9 +46,11 @@
 			<item value="com.simplilearn.workshop"/>
 		</list>
 		<list key="name">
+			<item value="08-simple-spring-web-mvc"/>
 			<item value="01-todo-service-without-spring"/>
 		</list>
 		<list key="artifactId">
+			<item value="08-simple-spring-web-mvc"/>
 			<item value="01-todo-service-without-spring"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -66,5 +68,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\trainer\dell\phase3"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
